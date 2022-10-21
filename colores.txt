@@ -1,4 +1,7 @@
 gris
 amarillo
 rojo
+celeste
+violeta
+negro
 
